@@ -1,0 +1,8 @@
+{
+  "name": "@haidilao.group/home",
+  "version": "0.0.1",
+  "description": "haidilao.group is a group of young and passionate programmers who love enjoying haidilao",
+  "main": "index.js",
+  "author": "haidilao.group@gmail.com",
+  "license": "MIT"
+}
